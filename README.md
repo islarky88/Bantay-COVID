@@ -1,6 +1,6 @@
 # Bantay COVID app
 
-# [Terms and Conditions for access to Bantay COVID App code](https://github.com/AU-Bantay COVID/mobile-android/blob/master/LICENSE.md)
+# [Terms and Conditions for access to Bantay COVID App code](https://github.com/islarky88/bantay-covid/blob/master/LICENSE.md)
 By accessing the App Code I accept and agree to the following terms:
 
 1. If I distribute the App Code to anyone else, I will ensure these terms are provided to them and are not deleted.
