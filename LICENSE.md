@@ -1,6 +1,4 @@
-# Bantay COVID app
-
-# [Terms and Conditions for access to Bantay COVID App code](https://github.com/AU-Bantay COVID/mobile-android/blob/master/LICENSE.md)
+# Terms and Conditions for access to Bantay COVID App code
 By accessing the App Code I accept and agree to the following terms:
 
 1. If I distribute the App Code to anyone else, I will ensure these terms are provided to them and are not deleted.
@@ -20,4 +18,3 @@ By accessing the App Code I accept and agree to the following terms:
     **c.** the DTA may disclose that information to other Commonwealth agencies and their contractors for the purposes of improving the App Code or the Bantay COVID App, or as required for public accountability and reporting purposes, but DTA will de-identify personal information before disclosure wherever reasonable and practicable (GitHub, a company based in the US, may also handle your personal information in accordance with the GitHub Terms and Conditions); and
 
     **d.** further information about how DTA will handle personal information, and my rights to complain or access or correct my personal information, is available at DTA's Privacy Policy.
-# bantay-covid
